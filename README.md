@@ -1,3 +1,3 @@
-# kakao-clone
+# hgchat
  
-Kakao Desktop App
+ 카카오톡 앱 따라 만들기
